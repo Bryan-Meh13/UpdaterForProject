@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-  /data/test.zip https://wordpress.org/latest.zip
+  /data/test.jpg http://i.imgur.com/UCjyx2l.jpg
 <End of Version>
