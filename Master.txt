@@ -1,4 +1,4 @@
 
-<Version: 1.01>
+<Version: 1.1>
   /img/pictures/test.jpg http://i.imgur.com/UCjyx2l.jpg
 <End of Version>
