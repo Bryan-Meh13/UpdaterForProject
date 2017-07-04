@@ -1,4 +1,5 @@
 
 <Version: 1.1>
 /data/Map002.json https://raw.githubusercontent.com/Bryan-Meh13/UpdaterForProject/master/Map002.json
+/data/Map032.json https://raw.githubusercontent.com/Bryan-Meh13/UpdaterForProject/master/Map032.json
 <End of Version>
