@@ -1,4 +1,4 @@
 
 <Version: 1.1>
-/data/Map010.json https://raw.githubusercontent.com/Bryan-Meh13/UpdaterForProject/master/Map010.json
+/data/Test.jpg http://i.imgur.com/CWaSdBR.jpg
 <End of Version>
