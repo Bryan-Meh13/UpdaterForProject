@@ -1,5 +1,4 @@
 
 <Version: 1.1>
-/data/Map003.json https://raw.githubusercontent.com/Bryan-Meh13/UpdaterForProject/master/Map003.json
-/data/test.png https://imgur.com/gallery/f5Bs1
+
 <End of Version>
